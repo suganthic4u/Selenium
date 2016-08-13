@@ -1,1 +1,1 @@
-java -cp bin;jars/* org.testng.TestNG testng_Jenkins.xml
+java -cp bin;jars/* org.testng.TestNG testng.xml
